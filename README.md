@@ -11,5 +11,5 @@ Each directory contains one `.zip` and one `.tar.gz` files which contained the w
 Everyone who is interested in it can download it and extract to a local directory,and then use git to view its history.
 
 ## About License
-Each achieved repository is licensed by the license file in it.
+Each archived repository is licensed by the license file in it.
 Different repository may be licensed by different license.
